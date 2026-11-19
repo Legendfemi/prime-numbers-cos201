@@ -1,6 +1,5 @@
 public class PrimeNumbers {
 
-    // Checks whether a number is prime
     static boolean isPrime(int n) {
         if (n < 2) {
             return false;
